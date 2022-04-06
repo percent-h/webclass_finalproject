@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&family=Shizuru&display=swap");
+
+body {
+  min-height: 100vh;
+  background-image: linear-gradient(AliceBlue, coral, SandyBrown);
+}
+
+.inback {
+  background-color: ;
+}
+
+#titlefont {
+  font-size: 100px;
+  font-family: "Roboto", sans-serif;
+  color: Turquoise;
+}
+
+#Dates {
+font-size: 40px;
+font-family: "Roboto", sans-serif;
+color: YellowGreen;
+}
+
+#titlefont1 {
+font-size: 60px;
+font-family: "Roboto", sans-serif;
+color: YellowGreen;
+}
+
+#titlefont2 {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  color: SlateGray;
+}
+
+#titlefont3 {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  color: LavenderBlush;
+}
+
+
+#pfont {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  color: MediumOrchid;
+}
+
+#pfont2 {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  color: purple;
+}
+
+#pfont3 {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: Cyan;
+}
+
+img {
+  border: 5px dotted #dddddd;
+  margin: 20px;
+  padding: 2vw;
+  border-color: cadetblue;
+  border-radius: 20%;
+}
+
+p {
+  border-style: ridge;
+  border-width: 3px;
+}
+
+.container {
+  padding-top: 20px;
+  display: flex;
+}
+
+.between {
+  justify-content: space-around;
+}
+
+.flexer {
+  width: 30px;
+  height: 30px;
+  background-color: purple;
+  border-radius: 30px;
+}
